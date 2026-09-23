@@ -360,39 +360,49 @@ STATUS: ███████████████████░  learning c
 
 ## `> development_overview`
 
+## `> development_overview`
+
 <div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maioranoo&theme=github_dark"
-  height="180em"
-  alt="GitHub Statistics"
-/>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maioranoo&theme=github_dark"
+        width="100%"
+        alt="GitHub Statistics"
+      />
+    </td>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maioranoo&theme=github_dark&utcOffset=-3"
-  height="180em"
-  alt="Productive Time"
-/>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maioranoo&theme=github_dark&utcOffset=-3"
+        width="100%"
+        alt="Productive Time"
+      />
+    </td>
+  </tr>
 
-<br/>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maioranoo&theme=github_dark"
+        width="100%"
+        alt="Repositories Per Language"
+      />
+    </td>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maioranoo&theme=github_dark"
-  height="180em"
-  alt="Repositories Per Language"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maioranoo&theme=github_dark"
-  height="180em"
-  alt="Most Commit Language"
-/>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maioranoo&theme=github_dark"
+        width="100%"
+        alt="Most Commit Language"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<br/>
-
----
 
 ## `> contribution_snake`
 
