@@ -78,7 +78,7 @@ Atuação no desenvolvimento e manutenção de soluções utilizando **Salesforc
 
 <td width="50%" valign="top">
 
-<h3 align="center">💰 Fluxo de Caixa</h3>
+<h3 align="center">Fluxo de Caixa</h3>
 
 <p>
 Sistema web de gerenciamento financeiro desenvolvido para facilitar o controle de entradas, saídas, categorias e acompanhamento financeiro.
@@ -99,7 +99,7 @@ TypeScript • React • Banco de Dados • IA
 
 <td width="50%" valign="top">
 
-<h3 align="center">⚡ FlowBoard</h3>
+<h3 align="center">FlowBoard</h3>
 
 <p>
 Gerenciador inteligente de tarefas com dashboard, prioridades, categorias e sugestões geradas por Inteligência Artificial.
@@ -124,7 +124,7 @@ Java 17 • Spring Boot • PostgreSQL • REST API • IA
 
 <td width="50%" valign="top">
 
-<h3 align="center">📊 FinanceFlow</h3>
+<h3 align="center">FinanceFlow</h3>
 
 <p>
 Dashboard financeiro para gerenciamento de transações, categorias, relatórios e metas financeiras.
@@ -145,7 +145,7 @@ JavaScript • HTML • CSS • Chart.js
 
 <td width="50%" valign="top">
 
-<h3 align="center">🎬 FEITV</h3>
+<h3 align="center">FEITV</h3>
 
 <p>
 Aplicação desktop para gerenciamento de usuários, vídeos, avaliações e listas personalizadas.
