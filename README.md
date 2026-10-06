@@ -179,3 +179,21 @@ Java • Swing • PostgreSQL
 → Java & Spring Boot
 → Full Stack Development
 → Inteligência Artificial aplicada a software
+
+## Contato
+
+<div align="center">
+
+<a href="https://linkedin.com/in/joão-pedro-maiorano-28a10a3b8">
+  <img src="https://img.shields.io/badge/LinkedIn-Entre_em_contato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:jp.maioranoo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Enviar_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<sub>João Pedro Maiorano • Software Engineer</sub>
+
+</div>
