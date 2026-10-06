@@ -179,7 +179,7 @@ Java • Swing • PostgreSQL
 → Java & Spring Boot
 → Full Stack Development
 → Inteligência Artificial aplicada a software
-
+```
 ## Contato
 
 <div align="center">
