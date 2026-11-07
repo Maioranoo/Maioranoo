@@ -51,9 +51,9 @@ Engenharia de software com foco em **IA aplicada**: integro modelos de linguagem
 
 <h3 align="center">Fluxo de Caixa</h3>
 
-<p>Sistema web de gerenciamento financeiro: entradas, saídas, categorias e acompanhamento.</p>
+<p>Sistema web de gerenciamento financeiro: entradas, saídas, categorias, parcelamentos e importação de extratos (planilhas e PDF).</p>
 
-<p><strong>Tecnologias:</strong><br/>TypeScript • React • Banco de Dados • IA</p>
+<p><strong>Tecnologias:</strong><br/>TypeScript • Next.js • React • Drizzle ORM</p>
 
 <p align="center">
 <a href="https://github.com/Maioranoo/Fluxo-de-caixa">
@@ -69,7 +69,7 @@ Engenharia de software com foco em **IA aplicada**: integro modelos de linguagem
 
 <p>Dashboard financeiro com transações, categorias, relatórios e metas.</p>
 
-<p><strong>Tecnologias:</strong><br/>JavaScript • React • Chart.js</p>
+<p><strong>Tecnologias:</strong><br/>JavaScript • HTML • CSS • Chart.js</p>
 
 <p align="center">
 <a href="https://github.com/Maioranoo/Front-End/tree/main/my-react-app">
